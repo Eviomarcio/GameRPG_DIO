@@ -1,0 +1,15 @@
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.csproj.AssemblyReference.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.AssemblyInfoInputs.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.AssemblyInfo.cs
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.csproj.CoreCompileInputs.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\bin\Debug\net6.0\GameRPG_DIO.exe
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\bin\Debug\net6.0\GameRPG_DIO.deps.json
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\bin\Debug\net6.0\GameRPG_DIO.runtimeconfig.json
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\bin\Debug\net6.0\GameRPG_DIO.dll
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\bin\Debug\net6.0\GameRPG_DIO.pdb
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.dll
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\refint\GameRPG_DIO.dll
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.pdb
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\GameRPG_DIO.genruntimeconfig.cache
+C:\Users\evio.joaquim\Documents\WorkSpace\.Net\GameRPG_DIO\obj\Debug\net6.0\ref\GameRPG_DIO.dll
